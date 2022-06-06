@@ -1,0 +1,50 @@
+@charset "utf-8";
+.nav-link {
+    color: rgba(255,255,255,1.00) !important;
+}
+.nav-link:hover {
+    color: rgba(165,116,240,1.00) !important;
+}
+.nav-link:hover .bi.bi-facebook {
+    color: rgba(68,155,250,1.00) !important;
+}
+.nav-link:hover .bi.bi-instagram {
+    color: rgba(231,83,176,1.00) !important;
+}
+.dropdown-item:hover {
+    color: rgba(165,116,240,1.00);
+}
+.carousel-item {
+    height: 100vh;
+    background-position: center center;
+    background-size: cover;
+}
+.jumbotron {
+    background-color: rgba(236,207,175,1.00);
+    text-align: center;
+    color: rgba(255,255,255,1.00);
+    padding-top: 150px;
+    padding-bottom: 150px;
+    border-radius: 0px;
+}
+.card {
+    border: none;
+}
+.btn {
+    background-color: rgba(218,143,20,1.00);
+}
+.btn:hover {
+    background-color: rgba(200,131,14,1.00);
+}
+.title {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+}
+.fotter {
+    text-align: center;
+    font-size: small;
+    padding-bottom: 10px;
+}
